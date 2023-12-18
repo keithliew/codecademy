@@ -1,0 +1,12 @@
+table {
+    border: solid 1px red;
+    text-align: center;
+}
+
+thead {
+    background-color: pink;
+}
+
+td {
+    border-top: dotted 1px green;
+}
